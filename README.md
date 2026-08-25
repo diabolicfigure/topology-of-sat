@@ -49,6 +49,12 @@ Additional logged quantities:
 
 When $|S(\varphi)|$ is large, higher-dimensional faces may be truncated. In this experiment, full cubical homology up to dimension 3 is computed whenever $|S| \le 2500$.
 
+**Intuition.**  
+β₀ is the number of separate pieces the solution set falls into.  
+β₁ counts independent loops that are not filled by squares (2-faces):  
+think of a cycle of solutions that you cannot “cap” with neighboring assignments.  
+β₂ would be hollow shells in higher dimension; in this snapshot it does not appear in the late-density window.
+
 ---
 
 ## 2. Experimental protocol: clause-density lifecycle
