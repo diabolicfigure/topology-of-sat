@@ -99,14 +99,14 @@ Streams that never grow cubical $\beta_1$ are labelled **no_signal**.
 
 On the 17 successful streams the same qualitative lifecycle appears:
 
-1. **Underconstrained regime** ($\alpha \approx 1.5$–$2.2$): cubical $\beta_1$ is born  
-2. **Before the clustering peak** ($\alpha \approx 2.0$–$3.2$): cubical $\beta_1$ dies  
-3. **Around $\alpha \approx 2.8$–$3.5$**: $\beta_0$ peaks (clustering)  
-4. **Uniform streams only:** still higher $\alpha$ eventually yields unsatisfiability
+1. **Underconstrained regime** (α ≈ 1.5–2.2): cubical β₁ is born  
+2. **Before the clustering peak** (α ≈ 2.0–3.2): cubical β₁ dies  
+3. **Around α ≈ 2.8–3.5**: β₀ peaks (clustering)  
+4. **Uniform streams only:** still higher α eventually yields unsatisfiability
 
-In the interval $\alpha \in [3.5, 4.5]$ **no** family exhibits a peak of cubical $\beta_1$ or $\beta_2$.
+In the interval α ∈ [3.5, 4.5] **no** family exhibits a peak of cubical β₁ or β₂.
 
-Planted streams remain satisfiable at high density, yet $\beta_1$ still vanishes.  
+Planted streams remain satisfiable at high density, yet β₁ still vanishes.  
 Therefore the disappearance of holes is not an artefact of an empty solution set.
 
 ### 3.2 Geometry of the cycles
