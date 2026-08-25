@@ -95,6 +95,26 @@ Streams that never grow cubical $\beta_1$ are labelled **no_signal**.
 
 ---
 
+## 3. Results ($n = 14$)
+
+**Aggregate:** 17 success · 7 no_signal · 0 hard-window peaks  
+(24 families total).
+
+### Figures
+
+![Lifecycle of β₁ and β₀](docs/figures/lifecycle_beta1_beta0.png)
+
+*Left: uniform. Right: planted. Red = fraction of families with cubical β₁ > 0. Blue = mean β₀. Grey band = density window [3.5, 4.5].*
+
+![Solution count and mean β₁](docs/figures/solutions_and_beta1.png)
+
+*Green = mean |S| (log scale). Purple = mean cubical β₁.*
+
+![Typical order on successful streams](docs/figures/lifecycle_schematic.png)
+
+*Schematic lifecycle order observed on successful streams.*
+
+
 ### 3.1 Observed order (when signal is present)
 
 On the 17 successful streams the same qualitative lifecycle appears:
