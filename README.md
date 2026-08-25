@@ -95,18 +95,13 @@ Streams that never grow cubical $\beta_1$ are labelled **no_signal**.
 
 ---
 
-## 3. Results ($n = 14$)
-
-**Aggregate:** 17 success · 7 no_signal · 0 hard-window peaks  
-(24 families total).
-
 ### 3.1 Observed order (when signal is present)
 
 On the 17 successful streams the same qualitative lifecycle appears:
 
-1. **Underconstrained regime** ($\alpha \approx 1.5\text{--}2.2$): cubical $\beta_1$ is born  
-2. **Before the clustering peak** ($\alpha \approx 2.0\text{--}3.2$): cubical $\beta_1$ dies  
-3. **Around $\alpha \approx 2.8\text{--}3.5$**: $\beta_0$ peaks (clustering)  
+1. **Underconstrained regime** ($\alpha \approx 1.5$–$2.2$): cubical $\beta_1$ is born  
+2. **Before the clustering peak** ($\alpha \approx 2.0$–$3.2$): cubical $\beta_1$ dies  
+3. **Around $\alpha \approx 2.8$–$3.5$**: $\beta_0$ peaks (clustering)  
 4. **Uniform streams only:** still higher $\alpha$ eventually yields unsatisfiability
 
 In the interval $\alpha \in [3.5, 4.5]$ **no** family exhibits a peak of cubical $\beta_1$ or $\beta_2$.
