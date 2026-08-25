@@ -192,8 +192,3 @@ python -m satlab.lifecycle \
 ```
 
 Expected aggregate: 17 `success`, 7 `no_signal`, 0 hard-window failures.
-
-## License
-
-MIT
-```

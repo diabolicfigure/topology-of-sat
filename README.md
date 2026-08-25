@@ -179,6 +179,16 @@ MIT
 
 ## Citation
 
-If you use this snapshot, please cite the repository together with the experimental protocol  
-($n$, seeds, $\alpha$-grid, cubical homology over $\mathrm{GF}(2)$).
-```
+If you use this code or data, please cite:
+
+> Topology of SAT Solution Spaces: Lifecycle of cubical Betti numbers in random and planted 3-SAT (n = 14).  
+> GitHub repository: https://github.com/diabolicfigure/topology-of-sat
+
+```bibtex
+@misc{topology-of-sat-2026,
+  title        = {Topology of SAT Solution Spaces: Lifecycle of Cubical Betti Numbers in Random and Planted 3-SAT},
+  author       = {diabolicfigure},
+  year         = {2026},
+  howpublished = {\url{https://github.com/diabolicfigure/topology-of-sat}},
+  note         = {n=14 experimental snapshot}
+}
